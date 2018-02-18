@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Screen gizmo", "Screen gizmo.csproj", "{C08CE710-32DE-D66B-13DD-BE7A9D6FA921}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Screen gizmo.Plugins", "Screen gizmo.Plugins.csproj", "{75E40190-7F9E-BB42-57F6-BFF6A4371C61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Screen gizmo.Editor.Plugins", "Screen gizmo.Editor.Plugins.csproj", "{055C12A0-955C-D6E8-B6D2-46525746B0AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{C08CE710-32DE-D66B-13DD-BE7A9D6FA921}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C08CE710-32DE-D66B-13DD-BE7A9D6FA921}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C08CE710-32DE-D66B-13DD-BE7A9D6FA921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75E40190-7F9E-BB42-57F6-BFF6A4371C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E40190-7F9E-BB42-57F6-BFF6A4371C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E40190-7F9E-BB42-57F6-BFF6A4371C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E40190-7F9E-BB42-57F6-BFF6A4371C61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{055C12A0-955C-D6E8-B6D2-46525746B0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055C12A0-955C-D6E8-B6D2-46525746B0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055C12A0-955C-D6E8-B6D2-46525746B0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055C12A0-955C-D6E8-B6D2-46525746B0AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

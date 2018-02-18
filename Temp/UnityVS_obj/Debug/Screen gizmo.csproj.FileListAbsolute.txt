@@ -88,6 +88,7 @@ C:\Users\Admin\Documents\Screen gizmo\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Ext
 C:\Users\Admin\Documents\Screen gizmo\Temp\UnityVS_bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
 C:\Users\Admin\Documents\Screen gizmo\Temp\UnityVS_bin\Debug\Unity.CecilTools.dll
 C:\Users\Admin\Documents\Screen gizmo\Temp\UnityVS_bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\Admin\Documents\Screen gizmo\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
 C:\Users\Admin\Documents\Screen gizmo\Temp\UnityVS_bin\Debug\UnityEditor.xml
 C:\Users\Admin\Documents\Screen gizmo\Temp\UnityVS_bin\Debug\UnityEngine.xml
 C:\Users\Admin\Documents\Screen gizmo\Temp\UnityVS_bin\Debug\UnityEngine.CoreModule.xml
